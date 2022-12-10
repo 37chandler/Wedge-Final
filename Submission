@@ -1,0 +1,69 @@
+# Applied Data Analytics
+
+## Wedge Project
+
+
+### Task 1
+
+* Files for this task: 
+Wedge Part 1.Final
+
+Loads all data into GBQ data set and connects to GBQ
+
+
+### Task 2
+
+* Files for this task: 
+Wedge Part 2.Final
+
+Creates a list of random owners .
+
+### Task 3
+
+* Files for this task: 
+Wedge.Part 3.Final
+
+Creates specified queries and uploads data
+
+Wedge.sale by owner year month
+Wedge.sales by date hour
+Wedge_sales by product description
+
+
+## Query Comparison Results
+
+Fill in the following table with the results from the 
+queries contained in `gbq_assessment_query.sql`. You only
+need to fill in relative difference on the rows where it applies. 
+When calculating relative difference, use the formula 
+` (your_results - john_results)/john_results)`.
+
+
+Query  |  Your Results  |  John's Results | Difference | Rel. Diff | 
+|---|---|---|---|---|
+| Total Rows  |  85,760,071 |   |   |   |
+| January 2012 Rows  |  1,070,905|   |   |   |
+| October 2012 Rows  | 1,042,285  |   |   |   |
+| Month with Fewest  |  Feb |   | Yes/No  | NA  |
+| Num Rows in Month with Fewest  | 6,556,768  |   |   |   |
+| Month with Most  |  May |   | Yes/No  | NA  |
+| Num Rows in Month with Most  | 7,578,369  |   |   |   |
+| Null_TS  | 0  |   |   |   |
+| Null_DT  | 0  |   |   |   |
+| Null_Local| 0  |   |   |   |
+| Null_CN  |  0 |   |   |   |
+| Num 5 on High Volume Cards  | 14,987  |   | Yes/No  | NA  |
+|  Num Rows for Number 5 | 460,652  |   |   |   |
+| Num Rows for 18736  | 12,153  |   |   |   |
+| Product with Most Rows  | Banana Org  |   | Yes/No  | NA  |
+| Num Rows for that Product  |  14,987 |   |   |   |
+| Product with Fourth-Most Rows  |  Avocado hass org |   | Yes/No  | NA  |
+| Num Rows for that Product  |  456,771 |   |   |   |
+| Num Single Record Products  | 2741  |   |   |   |
+| Year with Highest Portion of Owner Rows  |2014   |   | Yes/No  | NA |
+| Fraction of Rows from Owners in that Year  | .7591  |   |   |   |
+| Year with Lowest Portion of Owner Rows  |  2011 |   | Yes/No  | NA |
+| Fraction of Rows from Owners in that Year  | .7371  |   |   |   |
+
+
+The wedge project felt like a very unstructured project, which is not a good thing in my opinion. It would have been nice to have a little more structure and guidence on something in retrospect seems like a basic and fundementall skill. Unstanding how to upload data in a cloud storage setting to utilize for later is fine and great to recognize, but more structure and guided rescources could have opened up a door for a grander project, like data streaming, which would have helped add to the competitive advantage of chooisng graduate school over a self taught approach. Stress levels were very high during this process but once everything started running and loading they did drop in a big way. One of the shining features from this project was the encouragment from new life long friends to keep working hard and to not give up, for that I am truly grateful and it made it fun to bash my head against a wall as I struggled; this also helped with my mental health which felt like it was at an all time low this semester. Over all I would rate the wedge project a 7 out of 10. I feel if there was more guided structure to the big picture of the wedge it can open it up to something far greater than would be expected to come out of the Univeristy of Montana.
